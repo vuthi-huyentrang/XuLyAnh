@@ -1,2 +1,6 @@
-__pycache__/
 out/
+__pycache__/
+data/images/
+data/stage1/color/
+data/stage1/gray/
+data/stage1/preview/
