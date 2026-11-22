@@ -4,105 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    245,
-    609,
-    995,
-    1046
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    207,
-    109,
-    1032,
-    151
+    375,
+    149,
+    865,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      207,
-      109,
-      1032,
-      151
+      375,
+      149,
+      865,
+      181
      ],
-     "text": "QUY TRÌNH KIỂM SOÁT CHẤT LƯỢNG SẢN PHẨM (QA/QC)",
-     "size": 14.1,
-     "bold": true,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "subtitle",
-   "bbox": [
-    255,
-    154,
-    985,
-    187
-   ],
-   "lines": [
-    {
-     "bbox": [
-      255,
-      154,
-      985,
-      187
-     ],
-     "text": "Đảm bảo tiêu chuẩn chất lượng nghiêm ngặt trước khi xuất xưởng",
-     "size": 12.0,
-     "bold": false,
-     "italic": true
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    202,
-    764,
-    238
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      202,
-      470,
-      238
-     ],
-     "text": "Người soạn thảo: Lê Tấn Phát",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      491,
-      202,
-      498,
-      238
-     ],
-     "text": "|",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      519,
-      202,
-      764,
-      238
-     ],
-     "text": "Ngày lập: 21/10/2026",
-     "size": 12.0,
+     "text": "KỸ NĂNG THUYẾT TRÌNH CƠ BẢN",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -111,80 +31,33 @@
   {
    "role": "paragraph",
    "bbox": [
-    112,
-    256,
-    1108,
-    356
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      256,
-      1108,
-      290
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Công tác kiểm soát chất lượng đóng vai trò sống còn đối với uy tín sản phẩm của công ty.",
-     "size": 12.0,
+     "text": "Thuyết trình tốt là biết truyền đạt thông điệp rõ ràng và tạo được sự quan tâm của",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      112,
-      289,
-      1104,
-      323
+      148,
+      260,
+      785,
+      292
      ],
-     "text": "Quy trình kiểm tra được áp dụng nghiêm ngặt tại tất cảcác công đoạn từnguyên liệu đầu",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      322,
-      471,
-      356
-     ],
-     "text": "vào đến thành phẩm hoàn thiện.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    368,
-    1087,
-    435
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      368,
-      1087,
-      402
-     ],
-     "text": "Hệthống quản lý chất lượng tuân thủtiêu chuẩn ISO 9001:2015, được đánh giá và hiệu",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      401,
-      354,
-      435
-     ],
-     "text": "chuẩn thiết bịđịnh kỳ.",
-     "size": 12.0,
+     "text": "người nghe. Chuẩn bị kỹ là cách tốt nhất để tự tin hơn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -193,21 +66,79 @@
   {
    "role": "heading",
    "bbox": [
-    112,
-    446,
-    412,
-    482
+    148,
+    322,
+    384,
+    354
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      446,
-      412,
-      482
+      148,
+      322,
+      384,
+      354
      ],
-     "text": "Nội dung kiểm tra cốt lõi:",
-     "size": 12.0,
+     "text": "1. Hiểu người nghe",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    369,
+    1100,
+    438
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      369,
+      1100,
+      401
+     ],
+     "text": "Trước khi chuẩn bị, hãy tự hỏi người nghe là ai, họ đã biết gì và họ cần gì từ bài",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      406,
+      941,
+      438
+     ],
+     "text": "nói. Nội dung phù hợp với người nghe luôn có sức thuyết phục hơn.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    468,
+    409,
+    500
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      468,
+      409,
+      500
+     ],
+     "text": "2. Xây dựng cấu trúc",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -216,21 +147,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    487,
-    758,
-    521
+    177,
+    515,
+    852,
+    547
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      487,
-      758,
-      521
+      177,
+      515,
+      852,
+      547
      ],
-     "text": "Kiểm tra ngoại quan và thông sốkỹthuật từng lô hàng.",
-     "size": 12.0,
+     "text": "• Mở đầu: nêu vấn đề và lý do người nghe nên quan tâm.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -239,21 +170,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    522,
-    839,
-    556
+    177,
+    560,
+    817,
+    593
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      522,
-      839,
-      556
+      177,
+      560,
+      817,
+      593
      ],
-     "text": "Thửnghiệm độbền và độan toàn trong điều kiện khắc nghiệt.",
-     "size": 12.0,
+     "text": "• Thân bài: chọn ba ý chính, mỗi ý có ví dụ minh họa.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -262,26 +193,199 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    557,
-    845,
-    591
+    177,
+    606,
+    882,
+    639
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      557,
-      845,
-      591
+      177,
+      606,
+      882,
+      639
      ],
-     "text": "Lập hồsơ theo dõi lỗi và đềxuất biện pháp khắc phục kịp thời.",
-     "size": 12.0,
+     "text": "• Kết luận: nhắc lại thông điệp chính và đề nghị hành động.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    668,
+    365,
+    700
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      668,
+      365,
+      700
+     ],
+     "text": "3. Cách trình bày",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    715,
+    790,
+    747
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      715,
+      790,
+      747
+     ],
+     "text": "• Nói chậm, rõ, nhấn mạnh những điểm quan trọng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    761,
+    843,
+    793
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      761,
+      843,
+      793
+     ],
+     "text": "• Giao tiếp bằng mắt với nhiều người trong khán phòng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    806,
+    910,
+    839
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      806,
+      910,
+      839
+     ],
+     "text": "• Dùng cử chỉ tự nhiên và tránh đọc lại nguyên văn từ tài liệu.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    868,
+    304,
+    901
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      868,
+      304,
+      901
+     ],
+     "text": "4. Luyện tập",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    915,
+    1100,
+    985
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      915,
+      1100,
+      947
+     ],
+     "text": "Hãy tập nói thành tiếng ít nhất hai đến ba lần và bấm giờ để kiểm soát thời lượng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      952,
+      785,
+      985
+     ],
+     "text": "Nếu có thể, hãy nhờ một người bạn nghe thử và góp ý.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1021,
+    1066,
+    1054
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1021,
+      1066,
+      1054
+     ],
+     "text": "Sự tự tin đến từ sự chuẩn bị, và sự chuẩn bị tốt luôn được người nghe nhận ra.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 14
+ "n_lines": 18
 }

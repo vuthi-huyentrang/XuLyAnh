@@ -4,105 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    245,
-    576,
-    995,
-    1013
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    225,
-    109,
-    1015,
-    151
+    395,
+    149,
+    846,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      225,
-      109,
-      1015,
-      151
+      395,
+      149,
+      846,
+      181
      ],
-     "text": "BÁO CÁO NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆAI",
-     "size": 14.1,
-     "bold": true,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "subtitle",
-   "bbox": [
-    302,
-    154,
-    938,
-    187
-   ],
-   "lines": [
-    {
-     "bbox": [
-      302,
-      154,
-      938,
-      187
-     ],
-     "text": "Ứng dụng mô hình học máy vào bài toán xửlý dữliệu lớn",
-     "size": 12.0,
-     "bold": false,
-     "italic": true
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    202,
-    764,
-    238
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      202,
-      470,
-      238
-     ],
-     "text": "Người soạn thảo: Lê Tấn Phát",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      491,
-      202,
-      498,
-      238
-     ],
-     "text": "|",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      519,
-      202,
-      764,
-      238
-     ],
-     "text": "Ngày lập: 21/10/2026",
-     "size": 12.0,
+     "text": "AN TOÀN THÔNG TIN CÁ NHÂN",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -111,68 +31,33 @@
   {
    "role": "paragraph",
    "bbox": [
-    112,
-    256,
-    1127,
-    323
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      256,
-      1127,
-      290
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Đội ngũ R&D đã nghiên cứu và thửnghiệm thành công mô hình học máy xửlý ngôn ngữtự",
-     "size": 12.0,
+     "text": "Thông tin cá nhân là tài sản quý giá. Chỉ cần vài thói quen đơn giản, bạn đã có thể",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      112,
-      289,
-      1029,
-      323
+      148,
+      260,
+      738,
+      292
      ],
-     "text": "nhiên tiếng Việt cho các bài toán phân tích cảm xúc và trích xuất thông tin tựđộng.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    335,
-    1125,
-    402
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      335,
-      1125,
-      369
-     ],
-     "text": "Kết quảthửnghiệm đạt độchính xác trên 92%, mởra triển vọng ứng dụng rộng rãi vào các",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      368,
-      655,
-      402
-     ],
-     "text": "sản phẩm thương mại của công ty trong năm tới.",
-     "size": 12.0,
+     "text": "giảm đáng kể nguy cơ bị lừa đảo hoặc mất dữ liệu.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -181,21 +66,21 @@
   {
    "role": "heading",
    "bbox": [
-    112,
-    413,
-    523,
-    449
+    148,
+    322,
+    378,
+    354
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      413,
-      523,
-      449
+      148,
+      322,
+      378,
+      354
      ],
-     "text": "Kếhoạch triển khai R&D tiếp theo:",
-     "size": 12.0,
+     "text": "1. Mật khẩu mạnh",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -204,21 +89,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    454,
-    815,
-    488
+    177,
+    369,
+    758,
+    401
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      454,
-      815,
-      488
+      177,
+      369,
+      758,
+      401
      ],
-     "text": "Tối ưu hóa tốc độxửlý của mô hình trên thiết bịphần cứng.",
-     "size": 12.0,
+     "text": "• Dùng mật khẩu dài, kết hợp chữ, số và ký hiệu.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -227,21 +112,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    489,
-    838,
-    523
+    177,
+    414,
+    829,
+    447
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      489,
-      838,
-      523
+      177,
+      414,
+      829,
+      447
      ],
-     "text": "Thửnghiệm bổsung tập dữliệu đa dạng trong nhiều lĩnh vực.",
-     "size": 12.0,
+     "text": "• Mỗi tài khoản quan trọng nên có một mật khẩu riêng.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -250,26 +135,281 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    524,
-    764,
-    558
+    177,
+    460,
+    830,
+    493
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      524,
-      764,
-      558
+      177,
+      460,
+      830,
+      493
      ],
-     "text": "Đăng ký bản quyền sáng chếcho các thuật toán cốt lõi.",
-     "size": 12.0,
+     "text": "• Sử dụng trình quản lý mật khẩu đáng tin cậy nếu cần.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    522,
+    383,
+    554
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      522,
+      383,
+      554
+     ],
+     "text": "2. Xác thực hai lớp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    569,
+    1100,
+    639
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      569,
+      1100,
+      601
+     ],
+     "text": "Hãy bật xác thực hai lớp cho email, ngân hàng và mạng xã hội. Ngay cả khi mật",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      606,
+      827,
+      639
+     ],
+     "text": "khẩu bị lộ, kẻ xấu vẫn khó truy cập vào tài khoản của bạn.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    668,
+    449,
+    700
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      668,
+      449,
+      700
+     ],
+     "text": "3. Cảnh giác với lừa đảo",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    715,
+    890,
+    747
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      715,
+      890,
+      747
+     ],
+     "text": "• Không bấm vào liên kết lạ trong tin nhắn hoặc thư điện tử.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    761,
+    1079,
+    830
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      761,
+      1079,
+      793
+     ],
+     "text": "• Không cung cấp mã xác thực cho bất kỳ ai, kể cả người xưng là nhân viên",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      207,
+      798,
+      335,
+      830
+     ],
+     "text": "ngân hàng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    844,
+    804,
+    876
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      844,
+      804,
+      876
+     ],
+     "text": "• Kiểm tra kỹ địa chỉ trang web trước khi đăng nhập.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    906,
+    426,
+    938
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      906,
+      426,
+      938
+     ],
+     "text": "4. Cập nhật và sao lưu",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    952,
+    1100,
+    1060
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      952,
+      1100,
+      985
+     ],
+     "text": "Cập nhật hệ điều hành và ứng dụng thường xuyên để vá lỗi bảo mật. Sao lưu",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      990,
+      1100,
+      1022
+     ],
+     "text": "những dữ liệu quan trọng sang một nơi khác để có thể khôi phục khi thiết bị gặp sự",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      1027,
+      183,
+      1060
+     ],
+     "text": "cố.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1096,
+    1021,
+    1129
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1096,
+      1021,
+      1129
+     ],
+     "text": "Khi nghi ngờ, hãy dừng lại và xác minh bằng một kênh liên lạc chính thức.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 13
+ "n_lines": 20
 }

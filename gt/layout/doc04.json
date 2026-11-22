@@ -4,35 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    386,
-    426,
-    854,
-    699
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    118,
-    114,
-    523,
-    162
+    277,
+    149,
+    963,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      114,
-      523,
-      162
+      277,
+      149,
+      963,
+      181
      ],
-     "text": "Lợi ích của việc đọc sách",
-     "size": 15.9,
+     "text": "GIỮ GÌN SỨC KHỎE KHI LÀM VIỆC VĂN PHÒNG",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -41,33 +31,33 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    170,
-    1120,
-    248
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      170,
-      1120,
-      204
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Đọc sách là một thói quen giản dịnhưng mang lại nhiều giá trịcho mỗi người. Dù chỉdành",
-     "size": 12.0,
+     "text": "Ngồi nhiều trước máy tính có thể gây mỏi mắt, đau lưng và giảm tập trung. Một",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      214,
-      1021,
-      248
+      148,
+      260,
+      1034,
+      292
      ],
-     "text": "mười lăm phút mỗi ngày, bạn vẫn có thểnhận thấy sựthay đổi sau một thời gian.",
-     "size": 12.0,
+     "text": "vài điều chỉnh nhỏ mỗi ngày sẽ giúp bạn làm việc thoải mái và bền sức hơn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -76,56 +66,90 @@
   {
    "role": "heading",
    "bbox": [
-    118,
-    269,
-    387,
-    307
+    148,
+    322,
+    391,
+    354
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      269,
-      387,
-      307
+      148,
+      322,
+      391,
+      354
      ],
-     "text": "1. Mởrộng kiến thức",
-     "size": 12.9,
+     "text": "1. Tư thế ngồi đúng",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
    ]
   },
   {
-   "role": "paragraph",
+   "role": "list_item",
    "bbox": [
-    118,
-    324,
-    1083,
+    177,
+    369,
+    816,
     401
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      324,
-      1083,
-      358
-     ],
-     "text": "Mỗi cuốn sách là một cánh cửa mởra thếgiới mới. Qua sách, chúng ta học được cách",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      367,
-      1037,
+      177,
+      369,
+      816,
       401
      ],
-     "text": "người khác suy nghĩ và tiếp cận những lĩnh vực mà ngày thường ít có dịp tìm hiểu.",
-     "size": 12.0,
+     "text": "• Lưng thẳng, vai thả lỏng, hai chân đặt chắc trên sàn.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    414,
+    877,
+    447
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      414,
+      877,
+      447
+     ],
+     "text": "• Màn hình ngang tầm mắt, cách mắt khoảng một cánh tay.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    460,
+    748,
+    493
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      460,
+      748,
+      493
+     ],
+     "text": "• Khuỷu tay tạo góc gần vuông khi đặt trên bàn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -134,21 +158,21 @@
   {
    "role": "heading",
    "bbox": [
-    118,
-    708,
-    444,
-    747
+    148,
+    522,
+    362,
+    554
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      708,
-      444,
-      747
+      148,
+      522,
+      362,
+      554
      ],
-     "text": "2. Rèn luyện sựtập trung",
-     "size": 12.9,
+     "text": "2. Bảo vệ đôi mắt",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -157,33 +181,195 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    764,
-    1113,
-    841
+    148,
+    569,
+    1100,
+    676
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      764,
-      1113,
-      798
+      148,
+      569,
+      1100,
+      601
      ],
-     "text": "Khác với việc lướt mạng xã hội, đọc sách đòi hỏi sựchú ý liên tục. Nhờvậy, khảnăng tập",
-     "size": 12.0,
+     "text": "Áp dụng quy tắc 20-20-20: cứ sau 20 phút làm việc, hãy nhìn một vật cách xa",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      807,
-      729,
-      841
+      148,
+      606,
+      1100,
+      639
      ],
-     "text": "trung và ghi nhớcủa bạn được cải thiện theo thời gian.",
-     "size": 12.0,
+     "text": "khoảng 6 mét trong 20 giây. Điều chỉnh độ sáng màn hình phù hợp với ánh sáng",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      644,
+      292,
+      676
+     ],
+     "text": "xung quanh.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    706,
+    477,
+    738
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      706,
+      477,
+      738
+     ],
+     "text": "3. Vận động thường xuyên",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    752,
+    670,
+    785
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      752,
+      670,
+      785
+     ],
+     "text": "• Đứng dậy đi lại ít nhất mỗi giờ một lần.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    798,
+    825,
+    830
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      798,
+      825,
+      830
+     ],
+     "text": "• Duỗi cổ, vai và lưng vài phút giữa các buổi làm việc.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    844,
+    738,
+    876
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      844,
+      738,
+      876
+     ],
+     "text": "• Ưu tiên đi bộ hoặc dùng cầu thang khi có thể.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    906,
+    457,
+    938
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      906,
+      457,
+      938
+     ],
+     "text": "4. Uống nước và ăn uống",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    952,
+    1100,
+    1022
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      952,
+      1100,
+      985
+     ],
+     "text": "Giữ chai nước trên bàn để nhắc mình uống đủ nước. Hạn chế đồ ngọt và cà phê quá",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      990,
+      902,
+      1022
+     ],
+     "text": "nhiều, nhất là vào buổi chiều, để không ảnh hưởng đến giấc ngủ.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -192,95 +378,26 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    863,
-    311,
-    897
+    148,
+    1059,
+    845,
+    1091
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      863,
-      311,
-      897
+      148,
+      1059,
+      845,
+      1091
      ],
-     "text": "Gợi ý đểbắt đầu:",
-     "size": 12.0,
+     "text": "Sức khỏe tốt là nền tảng của mọi hiệu suất làm việc lâu dài.",
+     "size": 14.0,
      "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "list_item",
-   "bbox": [
-    155,
-    918,
-    656,
-    952
-   ],
-   "lines": [
-    {
-     "bbox": [
-      155,
-      918,
-      656,
-      952
-     ],
-     "text": "Chọn cuốn sách có chủđềbạn quan tâm.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "list_item",
-   "bbox": [
-    155,
-    968,
-    665,
-    1002
-   ],
-   "lines": [
-    {
-     "bbox": [
-      155,
-      968,
-      665,
-      1002
-     ],
-     "text": "Đặt mục tiêu đọc mười lăm phút mỗi ngày.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "list_item",
-   "bbox": [
-    155,
-    1017,
-    617,
-    1051
-   ],
-   "lines": [
-    {
-     "bbox": [
-      155,
-      1017,
-      617,
-      1051
-     ],
-     "text": "Ghi lại một ý tâm đắc sau mỗi lần đọc.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 13
+ "n_lines": 19
 }

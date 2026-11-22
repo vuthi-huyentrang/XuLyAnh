@@ -4,35 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    292,
-    401,
-    948,
-    783
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    439,
-    114,
-    801,
-    160
+    358,
+    149,
+    882,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      439,
-      114,
-      801,
-      160
+      358,
+      149,
+      882,
+      181
      ],
-     "text": "Giới thiệu vềxửlý ảnh số",
-     "size": 15.9,
+     "text": "PHƯƠNG PHÁP ĐỌC HIỂU HIỆU QUẢ",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -41,46 +31,57 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    175,
-    1117,
-    274
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      175,
-      1117,
-      208
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Xửlý ảnh sốlà lĩnh vực nghiên cứu các phương pháp biến đổi và phân tích ảnh bằng máy tính. Ảnh",
-     "size": 12.0,
+     "text": "Đọc nhiều chưa chắc đã hiểu sâu. Đọc có phương pháp giúp bạn nắm ý chính",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      208,
-      1103,
-      241
+      148,
+      260,
+      1004,
+      292
      ],
-     "text": "được biểu diễn dưới dạng ma trận điểm ảnh, mỗi điểm ảnh mang một giá trịđộsáng. Nhờđó, máy",
-     "size": 12.0,
+     "text": "nhanh hơn và nhớ lâu hơn. Dưới đây là một quy trình đọc gồm bốn bước.",
+     "size": 14.0,
      "bold": false,
      "italic": false
-    },
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    322,
+    403,
+    354
+   ],
+   "lines": [
     {
      "bbox": [
-      118,
-      241,
-      859,
-      274
+      148,
+      322,
+      403,
+      354
      ],
-     "text": "tính có thểlọc nhiễu, làm rõ chi tiết và trích xuất những thông tin hữu ích.",
-     "size": 12.0,
-     "bold": false,
+     "text": "1. Lướt qua tổng thể",
+     "size": 14.0,
+     "bold": true,
      "italic": false
     }
    ]
@@ -88,68 +89,79 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    286,
-    1096,
-    386
+    148,
+    369,
+    1100,
+    438
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      286,
-      1062,
-      320
+      148,
+      369,
+      1100,
+      401
      ],
-     "text": "Một ứng dụng quen thuộc là quét tài liệu bằng điện thoại. Người dùng chụp một trang giấy, hệ",
-     "size": 12.0,
+     "text": "Trước khi đọc kỹ, hãy xem nhan đề, mục lục, các tiêu đề nhỏ và đoạn kết. Bước",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      319,
-      1096,
-      353
+      148,
+      406,
+      1019,
+      438
      ],
-     "text": "thống sẽnắn thẳng ảnh, làm sáng đều nền và chuyển thành ảnh đen trắng rõ nét. Bước tiếp theo là",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      352,
-      617,
-      386
-     ],
-     "text": "nhận dạng chữđểtạo ra văn bản có thểchỉnh sửa.",
-     "size": 12.0,
+     "text": "này giúp bạn hình dung cấu trúc và biết nội dung nào cần chú ý nhiều hơn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
    ]
   },
   {
-   "role": "paragraph",
+   "role": "heading",
    "bbox": [
-    118,
-    793,
-    604,
-    827
+    148,
+    468,
+    468,
+    500
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      793,
-      604,
-      827
+      148,
+      468,
+      468,
+      500
      ],
-     "text": "Các bước chính trong một hệthống quét tài liệu:",
-     "size": 12.0,
+     "text": "2. Đặt câu hỏi cho bài đọc",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    515,
+    551,
+    547
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      515,
+      551,
+      547
+     ],
+     "text": "• Bài viết này trả lời vấn đề gì?",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -158,21 +170,21 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    839,
-    339,
-    872
+    177,
+    560,
+    684,
+    593
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      839,
-      339,
-      872
+      177,
+      560,
+      684,
+      593
      ],
-     "text": "Tiền xửlý ảnh",
-     "size": 12.0,
+     "text": "• Điều gì mình đã biết và điều gì còn mới?",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -181,21 +193,67 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    878,
-    359,
-    912
+    177,
+    606,
+    699,
+    639
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      878,
-      359,
-      912
+      177,
+      606,
+      699,
+      639
      ],
-     "text": "Phân tích bốcục",
-     "size": 12.0,
+     "text": "• Mình cần tìm thông tin nào trong bài này?",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    668,
+    399,
+    700
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      668,
+      399,
+      700
+     ],
+     "text": "3. Đọc kỹ và ghi chú",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    715,
+    1010,
+    747
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      715,
+      1010,
+      747
+     ],
+     "text": "• Gạch dưới hoặc đánh dấu những ý chính, không đánh dấu quá nhiều.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -204,22 +262,68 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    917,
-    527,
-    951
+    177,
+    761,
+    675,
+    793
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      917,
-      527,
-      951
+      177,
+      761,
+      675,
+      793
      ],
-     "text": "Nhận dạng chữvà xuất file Word",
-     "size": 12.0,
+     "text": "• Ghi chú bên lề bằng lời của chính mình.",
+     "size": 14.0,
      "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    806,
+    815,
+    839
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      806,
+      815,
+      839
+     ],
+     "text": "• Dừng lại sau mỗi phần để tóm tắt trong một hai câu.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    868,
+    413,
+    901
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      868,
+      413,
+      901
+     ],
+     "text": "4. Ôn lại và vận dụng",
+     "size": 14.0,
+     "bold": true,
      "italic": false
     }
    ]
@@ -227,38 +331,85 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    956,
-    1103,
-    1023
+    148,
+    915,
+    1100,
+    1022
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      956,
-      1103,
-      990
+      148,
+      915,
+      1100,
+      947
      ],
-     "text": "Đểdựng lại tài liệu, hệthống cần biết vịtrí của từng dòng chữ, đoạn văn và hình minh họa. Đây là",
-     "size": 12.0,
+     "text": "Sau khi đọc xong, hãy gấp sách lại và nhắc lại những ý chính. Sau đó thử liên hệ",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
+      148,
+      952,
+      1100,
+      985
+     ],
+     "text": "với công việc hoặc kinh nghiệm của bạn, hoặc chia sẻ với người khác để kiến thức",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
       990,
-      997,
-      1023
+      408,
+      1022
      ],
-     "text": "bài toán phân tích bốcục, thường sửdụng các phép hình thái học và thống kê điểm ảnh.",
-     "size": 12.0,
+     "text": "được ghi nhớ sâu hơn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1059,
+    1100,
+    1129
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1059,
+      1100,
+      1091
+     ],
+     "text": "Hiểu một cuốn sách có chọn lọc còn hơn lướt qua nhiều cuốn mà không đọng lại",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
+    },
+    {
+     "bbox": [
+      148,
+      1096,
+      235,
+      1129
+     ],
+     "text": "điều gì.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 13
+ "n_lines": 20
 }

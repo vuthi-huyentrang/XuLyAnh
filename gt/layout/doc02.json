@@ -4,35 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    292,
-    752,
-    948,
-    1135
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    118,
-    114,
-    496,
-    165
+    305,
+    149,
+    935,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      114,
-      496,
-      165
+      305,
+      149,
+      935,
+      181
      ],
-     "text": "Cách học tập hiệu quả",
-     "size": 17.1,
+     "text": "QUY TRÌNH TỔ CHỨC CUỘC HỌP HIỆU QUẢ",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -41,126 +31,79 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    185,
-    1120,
-    258
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      185,
-      1120,
-      222
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Học tập hiệu quảkhông có nghĩa là học thật nhiều giờmỗi ngày. Quan trọng hơn là",
-     "size": 12.9,
+     "text": "Một cuộc họp tốt tiết kiệm thời gian cho tất cả mọi người và dẫn đến những quyết",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      221,
-      593,
-      258
+      148,
+      260,
+      768,
+      292
      ],
-     "text": "biết cách học và giữđược sựtập trung.",
-     "size": 12.9,
+     "text": "định cụ thể. Tài liệu này gợi ý quy trình ba giai đoạn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
    ]
   },
   {
-   "role": "paragraph",
+   "role": "heading",
    "bbox": [
-    118,
-    295,
-    1115,
-    367
+    148,
+    322,
+    374,
+    354
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      295,
-      1115,
-      331
+      148,
+      322,
+      374,
+      354
      ],
-     "text": "Hãy chia nhỏnội dung thành từng phần vừa sức. Mỗi lần chỉtập trung vào một chủ",
-     "size": 12.9,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      330,
-      623,
-      367
-     ],
-     "text": "đềgiúp bạn hiểu sâu hơn và nhớlâu hơn.",
-     "size": 12.9,
-     "bold": false,
+     "text": "1. Trước cuộc họp",
+     "size": 14.0,
+     "bold": true,
      "italic": false
     }
    ]
   },
   {
-   "role": "paragraph",
+   "role": "list_item",
    "bbox": [
-    118,
-    404,
-    1074,
-    476
+    177,
+    369,
+    972,
+    401
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      404,
-      1074,
-      440
+      177,
+      369,
+      972,
+      401
      ],
-     "text": "Ôn tập đều đặn quan trọng không kém việc học bài mới. Việc nhắc lại kiến thức",
-     "size": 12.9,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      439,
-      986,
-      476
-     ],
-     "text": "sau một ngày, ba ngày và bảy ngày giúp thông tin đi vào trí nhớdài hạn.",
-     "size": 12.9,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    118,
-    512,
-    461,
-    549
-   ],
-   "lines": [
-    {
-     "bbox": [
-      118,
-      512,
-      461,
-      549
-     ],
-     "text": "Một sốthói quen nên duy trì:",
-     "size": 12.9,
+     "text": "• Xác định rõ mục tiêu: cần thông báo, thảo luận hay ra quyết định.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -169,21 +112,21 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    586,
-    634,
-    623
+    177,
+    414,
+    667,
+    447
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      586,
-      634,
-      623
+      177,
+      414,
+      667,
+      447
      ],
-     "text": "1. Lập kếhoạch học tập cho từng tuần.",
-     "size": 12.9,
+     "text": "• Chỉ mời những người thật sự liên quan.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -192,21 +135,67 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    640,
-    669,
-    677
+    177,
+    460,
+    805,
+    493
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      640,
-      669,
-      677
+      177,
+      460,
+      805,
+      493
      ],
-     "text": "2. Nghỉgiải lao ngắn sau mỗi 45 phút học.",
-     "size": 12.9,
+     "text": "• Gửi chương trình và tài liệu trước ít nhất một ngày.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    522,
+    373,
+    554
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      522,
+      373,
+      554
+     ],
+     "text": "2. Trong cuộc họp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    569,
+    550,
+    601
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      569,
+      550,
+      601
+     ],
+     "text": "• Bắt đầu và kết thúc đúng giờ.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -215,26 +204,223 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    695,
-    712,
-    732
+    177,
+    615,
+    901,
+    647
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      695,
-      712,
-      732
+      177,
+      615,
+      901,
+      647
      ],
-     "text": "3. Tựkiểm tra bằng câu hỏi hoặc thẻghi nhớ.",
-     "size": 12.9,
+     "text": "• Phân công một người điều hành và một người ghi biên bản.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    660,
+    1054,
+    693
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      660,
+      1054,
+      693
+     ],
+     "text": "• Bám sát chương trình, đưa các vấn đề phát sinh vào danh sách xử lý sau.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    706,
+    673,
+    739
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      706,
+      673,
+      739
+     ],
+     "text": "• Tóm tắt các quyết định ở cuối buổi họp.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    768,
+    342,
+    800
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      768,
+      342,
+      800
+     ],
+     "text": "3. Sau cuộc họp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    815,
+    1100,
+    885
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      815,
+      1100,
+      847
+     ],
+     "text": "Gửi biên bản trong vòng 24 giờ, nêu rõ các quyết định, người phụ trách và thời hạn",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      852,
+      1051,
+      885
+     ],
+     "text": "của từng việc. Theo dõi việc thực hiện ở cuộc họp hoặc buổi cập nhật kế tiếp.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    914,
+    467,
+    946
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      914,
+      467,
+      946
+     ],
+     "text": "4. Khi nào không cần họp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    961,
+    1100,
+    1068
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      961,
+      1100,
+      993
+     ],
+     "text": "Nếu chỉ cần thông báo một thông tin đơn giản hoặc lấy ý kiến nhanh, email hoặc",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      998,
+      1100,
+      1031
+     ],
+     "text": "tin nhắn nhóm thường là lựa chọn gọn hơn. Hãy họp khi cần trao đổi trực tiếp để đi",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      1036,
+      328,
+      1068
+     ],
+     "text": "đến quyết định.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1105,
+    935,
+    1137
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1105,
+      935,
+      1137
+     ],
+     "text": "Mỗi cuộc họp nên kết thúc với một danh sách việc cần làm rõ ràng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 11
+ "n_lines": 20
 }

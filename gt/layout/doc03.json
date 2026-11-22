@@ -4,35 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    245,
-    178,
-    995,
-    615
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    335,
-    114,
-    904,
-    165
+    351,
+    149,
+    889,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      335,
-      114,
-      904,
-      165
+      351,
+      149,
+      889,
+      181
      ],
-     "text": "Giới thiệu Thành phốHồChí Minh",
-     "size": 18.0,
+     "text": "LẬP NGÂN SÁCH CÁ NHÂN ĐƠN GIẢN",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -41,58 +31,57 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    629,
-    1122,
-    784
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      629,
-      1122,
-      668
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Thành phốHồChí Minh là trung tâm kinh tế, văn hóa và khoa học lớn nhất của Việt",
-     "size": 14.1,
+     "text": "Ngân sách giúp bạn biết tiền của mình đi đâu và chủ động hơn trong các mục tiêu",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      667,
-      1122,
-      707
+      148,
+      260,
+      1016,
+      292
      ],
-     "text": "Nam. Thành phốnằm ởmiền Nam, bên bờsông Sài Gòn, với khí hậu nhiệt đới gió",
-     "size": 14.1,
+     "text": "tài chính. Chỉ cần theo dõi đều đặn, bạn sẽ thấy sự khác biệt sau vài tháng.",
+     "size": 14.0,
      "bold": false,
      "italic": false
-    },
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    322,
+    517,
+    354
+   ],
+   "lines": [
     {
      "bbox": [
-      118,
-      706,
-      1122,
-      745
+      148,
+      322,
+      517,
+      354
      ],
-     "text": "mùa quanh năm. Nhịp sống nhộn nhịp cùng nhiều trường đại học và khu công nghệ",
-     "size": 14.1,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      744,
-      797,
-      784
-     ],
-     "text": "khiến nơi đây thu hút đông đảo người trẻtừkhắp cảnước.",
-     "size": 14.1,
-     "bold": false,
+     "text": "1. Ghi lại thu nhập và chi tiêu",
+     "size": 14.0,
+     "bold": true,
      "italic": false
     }
    ]
@@ -100,91 +89,79 @@
   {
    "role": "paragraph",
    "bbox": [
-    118,
-    800,
-    1122,
-    916
+    148,
+    369,
+    1100,
+    438
    ],
    "lines": [
     {
      "bbox": [
-      118,
-      800,
-      1122,
-      839
+      148,
+      369,
+      1100,
+      401
      ],
-     "text": "Bên cạnh nhịp sống hiện đại, thành phốcòn giữnhiều dấu ấn lịch sử. Ẩm thực cũng",
-     "size": 14.1,
+     "text": "Trong một đến hai tháng đầu, hãy ghi lại mọi khoản thu và chi, dù nhỏ. Việc này",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      118,
-      838,
-      1122,
-      878
-     ],
-     "text": "là một nét đặc sắc, từbánh mì, cơm tấm đến các món ăn vặt vỉa hè, phản ánh sựđa",
-     "size": 14.1,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      118,
-      877,
-      446,
-      916
-     ],
-     "text": "dạng của một đô thịcởi mở.",
-     "size": 14.1,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    118,
-    932,
-    427,
-    971
-   ],
-   "lines": [
-    {
-     "bbox": [
-      118,
-      932,
-      427,
-      971
-     ],
-     "text": "Một sốđịa điểm nổi tiếng:",
-     "size": 14.1,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "list_item",
-   "bbox": [
-    155,
-    987,
-    384,
-    1027
-   ],
-   "lines": [
-    {
-     "bbox": [
-      155,
+      148,
+      406,
       987,
-      384,
-      1027
+      438
      ],
-     "text": "Nhà thờĐức Bà",
-     "size": 14.1,
+     "text": "giúp bạn nhìn thấy những khoản chi phát sinh mà trước đây không để ý.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    468,
+    440,
+    500
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      468,
+      440,
+      500
+     ],
+     "text": "2. Phân chia theo nhóm",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    515,
+    790,
+    547
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      515,
+      790,
+      547
+     ],
+     "text": "• Nhu cầu thiết yếu: nhà ở, ăn uống, đi lại, hóa đơn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -193,21 +170,21 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    1034,
-    433,
-    1073
+    177,
+    560,
+    760,
+    593
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      1034,
-      433,
-      1073
+      177,
+      560,
+      760,
+      593
      ],
-     "text": "Bưu điện Thành phố",
-     "size": 14.1,
+     "text": "• Mong muốn cá nhân: giải trí, mua sắm, du lịch.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -216,26 +193,211 @@
   {
    "role": "list_item",
    "bbox": [
-    155,
-    1081,
-    379,
-    1120
+    177,
+    606,
+    821,
+    639
    ],
    "lines": [
     {
      "bbox": [
-      155,
-      1081,
-      379,
-      1120
+      177,
+      606,
+      821,
+      639
      ],
-     "text": "ChợBến Thành",
-     "size": 14.1,
+     "text": "• Tiết kiệm và đầu tư: quỹ khẩn cấp, mục tiêu dài hạn.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    668,
+    394,
+    700
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      668,
+      394,
+      700
+     ],
+     "text": "3. Đặt tỷ lệ phù hợp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    715,
+    1100,
+    822
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      715,
+      1100,
+      747
+     ],
+     "text": "Một cách phổ biến là chia theo tỷ lệ 50-30-20: khoảng một nửa thu nhập cho nhu",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      752,
+      1100,
+      785
+     ],
+     "text": "cầu thiết yếu, ba phần mười cho mong muốn và hai phần mười cho tiết kiệm. Bạn",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      790,
+      713,
+      822
+     ],
+     "text": "có thể điều chỉnh tỷ lệ này theo hoàn cảnh riêng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    852,
+    475,
+    884
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      852,
+      475,
+      884
+     ],
+     "text": "4. Xây dựng quỹ khẩn cấp",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    898,
+    843,
+    931
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      898,
+      843,
+      931
+     ],
+     "text": "• Đặt mục tiêu dự phòng bằng ba đến sáu tháng chi tiêu.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    944,
+    894,
+    976
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      944,
+      894,
+      976
+     ],
+     "text": "• Tự động chuyển một khoản tiết kiệm ngay khi nhận lương.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    990,
+    900,
+    1022
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      990,
+      900,
+      1022
+     ],
+     "text": "• Chỉ sử dụng quỹ này cho những tình huống thật sự bất ngờ.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1059,
+    1019,
+    1091
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1059,
+      1019,
+      1091
+     ],
+     "text": "Ngân sách không nhằm hạn chế bạn, mà nhằm giúp bạn chi tiêu có ý thức.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 12
+ "n_lines": 19
 }

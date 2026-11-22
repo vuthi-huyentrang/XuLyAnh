@@ -4,105 +4,25 @@
   1240,
   1754
  ],
- "figures": [
-  {
-   "bbox": [
-    245,
-    642,
-    995,
-    1080
-   ]
-  }
- ],
  "paragraphs": [
   {
    "role": "title",
    "bbox": [
-    193,
-    109,
-    1047,
-    151
+    349,
+    149,
+    891,
+    181
    ],
    "lines": [
     {
      "bbox": [
-      193,
-      109,
-      1047,
-      151
+      349,
+      149,
+      891,
+      181
      ],
-     "text": "BÁO CÁO TỔNG QUAN THỊTRƯỜNG CÔNG NGHỆVIỆT NAM",
-     "size": 14.1,
-     "bold": true,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "subtitle",
-   "bbox": [
-    277,
-    154,
-    963,
-    187
-   ],
-   "lines": [
-    {
-     "bbox": [
-      277,
-      154,
-      963,
-      187
-     ],
-     "text": "Đánh giá xu hướng tăng trưởng và cơ hội phát triển năm 2026",
-     "size": 12.0,
-     "bold": false,
-     "italic": true
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    202,
-    819,
-    238
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      202,
-      526,
-      238
-     ],
-     "text": "Người soạn thảo: Nguyễn Văn Việt",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      547,
-      202,
-      554,
-      238
-     ],
-     "text": "|",
-     "size": 12.0,
-     "bold": true,
-     "italic": false
-    },
-    {
-     "bbox": [
-      575,
-      202,
-      819,
-      238
-     ],
-     "text": "Ngày lập: 21/10/2026",
-     "size": 12.0,
+     "text": "HƯỚNG DẪN VIẾT EMAIL CÔNG VIỆC",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -111,92 +31,33 @@
   {
    "role": "paragraph",
    "bbox": [
-    112,
-    256,
-    1123,
-    389
+    148,
+    223,
+    1100,
+    292
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      256,
-      1123,
-      290
+      148,
+      223,
+      1100,
+      255
      ],
-     "text": "Thịtrường công nghệthông tin tại Việt Nam đang duy trì tốc độphát triển mạnh mẽnhờsự",
-     "size": 12.0,
+     "text": "Một email rõ ràng giúp người nhận hiểu nhanh và phản hồi đúng ý. Hãy áp dụng",
+     "size": 14.0,
      "bold": false,
      "italic": false
     },
     {
      "bbox": [
-      112,
-      289,
-      1107,
-      323
+      148,
+      260,
+      629,
+      292
      ],
-     "text": "đẩy mạnh chuyển đổi sốtoàn diện từcác doanh nghiệp và cơ quan quản lý. Việc áp dụng",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      322,
-      1084,
-      356
-     ],
-     "text": "trí tuệnhân tạo (AI) và điện toán đám mây (Cloud Computing) đã trởthành trụcột chính",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      355,
-      530,
-      389
-     ],
-     "text": "trong chiến lược tối ưu hóa vận hành.",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    }
-   ]
-  },
-  {
-   "role": "paragraph",
-   "bbox": [
-    112,
-    401,
-    1099,
-    468
-   ],
-   "lines": [
-    {
-     "bbox": [
-      112,
-      401,
-      1099,
-      435
-     ],
-     "text": "Các chỉsốphát triển chính trong quý vừa qua cho thấy mức độsẵn sàng công nghệtăng",
-     "size": 12.0,
-     "bold": false,
-     "italic": false
-    },
-    {
-     "bbox": [
-      112,
-      434,
-      1029,
-      468
-     ],
-     "text": "cao, đặc biệt trong các lĩnh vực tài chính ngân hàng, bán lẻvà giáo dục trực tuyến.",
-     "size": 12.0,
+     "text": "các bước sau mỗi khi soạn thư công việc.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -205,21 +66,79 @@
   {
    "role": "heading",
    "bbox": [
-    112,
-    479,
-    437,
-    515
+    148,
+    322,
+    392,
+    354
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      479,
-      437,
-      515
+      148,
+      322,
+      392,
+      354
      ],
-     "text": "Các định hướng trọng tâm:",
-     "size": 12.0,
+     "text": "1. Tiêu đề ngắn gọn",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    369,
+    1100,
+    438
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      369,
+      1100,
+      401
+     ],
+     "text": "Tiêu đề nên nói đúng nội dung chính, ví dụ: “Đề xuất lịch họp dự án tuần sau”.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      406,
+      882,
+      438
+     ],
+     "text": "Tránh các tiêu đề chung chung như “Trao đổi” hoặc “Xin hỏi”.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    468,
+    405,
+    500
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      468,
+      405,
+      500
+     ],
+     "text": "2. Cấu trúc nội dung",
+     "size": 14.0,
      "bold": true,
      "italic": false
     }
@@ -228,21 +147,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    520,
-    807,
-    554
+    177,
+    515,
+    831,
+    547
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      520,
-      807,
-      554
+      177,
+      515,
+      831,
+      547
      ],
-     "text": "Đầu tư nâng cấp hạtầng dữliệu và trung tâm dữliệu xanh.",
-     "size": 12.0,
+     "text": "• Chào hỏi lịch sự và xưng hô phù hợp với người nhận.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -251,21 +170,21 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    555,
-    954,
-    589
+    177,
+    560,
+    752,
+    593
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      555,
-      954,
-      589
+      177,
+      560,
+      752,
+      593
      ],
-     "text": "Tăng cường an ninh mạng và bảo vệdữliệu cá nhân theo quy định mới.",
-     "size": 12.0,
+     "text": "• Nêu mục đích của thư ngay trong câu đầu tiên.",
+     "size": 14.0,
      "bold": false,
      "italic": false
     }
@@ -274,26 +193,222 @@
   {
    "role": "list_item",
    "bbox": [
-    112,
-    590,
-    1101,
-    624
+    177,
+    606,
+    817,
+    639
    ],
    "lines": [
     {
      "bbox": [
-      112,
-      590,
-      1101,
-      624
+      177,
+      606,
+      817,
+      639
      ],
-     "text": "Mởrộng chương trình đào tạo nguồn nhân lực chất lượng cao vềAI và Data Science.",
-     "size": 12.0,
+     "text": "• Trình bày chi tiết theo từng ý ngắn, mỗi đoạn một ý.",
+     "size": 14.0,
      "bold": false,
      "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    652,
+    877,
+    684
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      652,
+      877,
+      684
+     ],
+     "text": "• Nêu rõ điều bạn mong muốn người nhận làm và thời hạn.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    714,
+    529,
+    746
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      714,
+      529,
+      746
+     ],
+     "text": "3. Giọng văn và cách trình bày",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    761,
+    784,
+    793
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      761,
+      784,
+      793
+     ],
+     "text": "• Dùng câu ngắn, từ ngữ chính xác, tránh dài dòng.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    806,
+    876,
+    839
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      806,
+      876,
+      839
+     ],
+     "text": "• Giữ thái độ lịch sự, trung lập, kể cả khi nội dung khó nói.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    177,
+    852,
+    904,
+    885
+   ],
+   "lines": [
+    {
+     "bbox": [
+      177,
+      852,
+      904,
+      885
+     ],
+     "text": "• Hạn chế viết hoa toàn bộ và dùng quá nhiều dấu chấm than.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    148,
+    914,
+    461,
+    946
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      914,
+      461,
+      946
+     ],
+     "text": "4. Kiểm tra trước khi gửi",
+     "size": 14.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    961,
+    1100,
+    1031
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      961,
+      1100,
+      993
+     ],
+     "text": "Đọc lại để soát lỗi chính tả, kiểm tra tên người nhận và các tệp đính kèm. Với thư",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      148,
+      998,
+      811,
+      1031
+     ],
+     "text": "quan trọng, hãy để lại vài phút rồi đọc thêm một lần nữa.",
+     "size": 14.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    148,
+    1067,
+    753,
+    1099
+   ],
+   "lines": [
+    {
+     "bbox": [
+      148,
+      1067,
+      753,
+      1099
+     ],
+     "text": "Email tốt là email mà người đọc không phải hỏi lại.",
+     "size": 14.0,
+     "bold": false,
+     "italic": true
     }
    ]
   }
  ],
- "n_lines": 15
+ "n_lines": 19
 }
